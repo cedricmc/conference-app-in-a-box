@@ -1,6 +1,6 @@
 # Conference App in a Box
 
-This is the React Native CLI version. To view the Expo version, click [here](https://github.com/dabit3/conference-app-in-a-box/tree/expo).
+This is the React Native CLI version. To view the Expo version, click [here](https://github.com/dabit3/conference-app-in-a-box/tree/expo). happy
 
 > This repo goes along with my Dev.to post titled ["Introducing Conference App in a Box"](https://dev.to/dabit3/introducing-conference-app-in-a-box-kgj)
 
